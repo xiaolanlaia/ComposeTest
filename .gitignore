@@ -16,3 +16,7 @@ local.properties
 /.idea/
 /app/src/androidTest
 /app/src/test/java/com/example/composetest/ExampleUnitTest.kt
+/app/build.gradle
+/gradle/wrapper/
+/build.gradle
+/settings.gradle
